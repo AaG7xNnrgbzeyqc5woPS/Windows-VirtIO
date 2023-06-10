@@ -10,3 +10,6 @@
 
 # 3. 永久激活(kms激活)
 - [Windows7专业版系统永久激活的方法](https://www.xitongzhijia.net/xtjc/20170323/94459.html)
+
+# 4. KMS 激活详述链接
+- ❤️ [AaG7xNnrgbzeyqc5woPS/linux_help/win10/KMS激活.md](https://github.com/AaG7xNnrgbzeyqc5woPS/linux_help/blob/master/win10/KMS%E6%BF%80%E6%B4%BB.md)
